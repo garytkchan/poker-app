@@ -137,7 +137,7 @@ function checkForTheHighestHand(arr){
     else if (rank === 4)    console.log("Three Of A Kind");
     else if (rank === 3)    console.log("Two Pairs");
     else if (rank === 2)    console.log("One Pair");
-    else if (rank === 1)    console.log("No Combination. High Card Only");
+    else if (rank === 1)    console.log("High Card Only");
     console.log("\n");
 }
 
