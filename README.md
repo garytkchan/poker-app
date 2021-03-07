@@ -32,9 +32,9 @@ Data of the playing cards from the deck of cards API (https://deckofcardsapi.com
   9. High card
   
  ## Steps to run the app in development mode
- 1. Have Node.js installed in your local machine
- 2. Navigate to the directory '/poker-app/src' in the terminal. Run the following command:
-    ### `npm install`
-    ### `node poker.js`
+ 1. Have npm and node.js installed in your local machine
+ 2. Navigate to the directory '/poker-app/src' in the terminal. Run the following commands:
+    ###  `npm install`
+    ###  `node poker.js`
 
 
