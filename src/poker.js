@@ -1,5 +1,6 @@
 // use axios to fetch API
 import axios from 'axios';
+//const axios = require('axios')
 
 // URL
 const URL = 'https://deckofcardsapi.com/';
